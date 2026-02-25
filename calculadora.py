@@ -1,4 +1,4 @@
-print("======== Mi Super Calculadora ==========")
+print(" Mi Super Calculadora ")
 
 num_1 = float(input("Escriba el valor del primer numero: "))
 num_2 = float(input("Escriba el valor del segundo numero: "))
